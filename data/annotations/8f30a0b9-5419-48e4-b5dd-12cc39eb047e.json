@@ -1,5 +1,29 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 35,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This segment comes from the episode "
+            },
+            {
+              "text": "Black Politics 601",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-1z41r6n13b"
+            },
+            {
+              "text": ". The program analyzes why African American candidates were unable to win appointment to either Boston's School Committee or City Council in the 1975 elections. Guest host James Rowe of WILD Radio News speaks with Clarence Dilday (attorney and unsuccessful candidate for City Council), John O'Bryant (Director of the Dimock Community Health Center and unsuccessful candidate for School Committee), Richard Taylor (John O'Bryant's campaign manager), and Luix Overbea (reporter for the Christian Science Monitor) about why African Americans in Boston were unable to elect Dilday and O'Bryant, what the election says about the African American community's commitment to getting people in office, if election results would have been better if it had been an \"off\" year election, if an organization for raising funds to support African American candidates is in the making, and what African Americans can do to heighten their political sophistication. Additional segments include a survey of Boston's voting statistics for 1969, 1971 and 1975, an interview conducted by writer/researcher Dighton Spooner with Dr. Ronald Walters (Associate Professor of Political Science at Howard University) about African Americans and the 1976 presidential election, \"Information\" on registering to vote, \"Access\" (on the Roxbury-Dorchester JCs), and the \"Community Calendar.\"\n\n \n\n\n \n\n \n\n\n\n\n\n\n\n\n \n \n\n\n\n \n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "888ddb96-39e0-4144-b08d-b283a72e4e4d"
+    }
+  ],
   "set": "Default",
   "event_id": "e847231f-c9d0-40cd-b851-260e37e0880c",
   "source_id": "15c56884-f072-4426-a510-ba51e0747ae7"
