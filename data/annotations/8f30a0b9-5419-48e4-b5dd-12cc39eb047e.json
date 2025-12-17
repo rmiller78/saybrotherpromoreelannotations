@@ -22,6 +22,29 @@
       ],
       "tags": [],
       "uuid": "888ddb96-39e0-4144-b08d-b283a72e4e4d"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This sample comes from episode Upstage. In this program "
+            },
+            {
+              "text": "Say Brother ",
+              "italic": true
+            },
+            {
+              "text": "shines the spotlight on the New England arts scene and asks why local artists and performers feel forced to move to places like New York and Los Angeles in order to find steady work. Guests include Evelyn Moore, actress and coauthor of the Emmy Award-winning \"Black Dyad,\" and John Ross and Victoria Howard, Music Director and and Producer, respectively, of the Boston hit play \"Dancin' in the Street.\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ba3348c4-bbaa-46ff-a9cc-13a177f929e6"
     }
   ],
   "set": "Default",
