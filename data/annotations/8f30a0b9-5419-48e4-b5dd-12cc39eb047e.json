@@ -31,7 +31,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "This sample comes from episode Upstage. In this program "
+              "text": "This sample comes from episode "
+            },
+            {
+              "text": "Upstage",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-35t77mpd"
+            },
+            {
+              "text": ". In this program "
             },
             {
               "text": "Say Brother ",
