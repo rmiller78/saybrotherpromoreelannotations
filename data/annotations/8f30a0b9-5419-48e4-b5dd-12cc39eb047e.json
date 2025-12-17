@@ -38,7 +38,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The American Archive of Public Broadcasting (AAPB) is a collaboration between the Library of Congress and GBH that seeks to preserve and make accessible significant historical content created by public media stations, and to coordinate a national effort to save at-risk public media before its content is lost to posterity. The American Archive of Public Broadcasting contains more than 250,000 digitized public broadcasting programs and original materials. Some notable programs are featured curated Special Collections. Each Special Collection finding aid provides detailed information about the content, such as its creator, recommended search strategies, and related resources. Most of the materials described in the Special Collections are available online. If not, particular materials of interest can be accessed on location at GBH and the Library of Congress. \n"
+              "text": "The American Archive of Public Broadcasting",
+              "link": "https://americanarchive.org/"
+            },
+            {
+              "text": " (AAPB) is a collaboration between the Library of Congress and GBH that seeks to preserve and make accessible significant historical content created by public media stations, and to coordinate a national effort to save at-risk public media before its content is lost to posterity. The American Archive of Public Broadcasting contains more than 250,000 digitized public broadcasting programs and original materials. Some notable programs are featured curated Special Collections. Each Special Collection finding aid provides detailed information about the content, such as its creator, recommended search strategies, and related resources. Most of the materials described in the Special Collections are available online. If not, particular materials of interest can be accessed on location at GBH and the Library of Congress. \n"
             }
           ]
         }
