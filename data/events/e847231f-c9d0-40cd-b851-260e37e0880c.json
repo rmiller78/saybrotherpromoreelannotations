@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "15c56884-f072-4426-a510-ba51e0747ae7": {
+      "label": "Say Brother/Basic Black Promotional Reel",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=yyqJl8jBNRk",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "A Finding Aid to Accompany the \"Say Brother/Basic Black\" Special Collection Promotional Reel",
+  "av_file_order": [
+    "15c56884-f072-4426-a510-ba51e0747ae7"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2025-12-17T15:17:44.994Z",
+  "created_by": "rmiller78",
+  "updated_at": "2025-12-17T15:17:44.994Z",
+  "updated_by": "rmiller78"
+}
