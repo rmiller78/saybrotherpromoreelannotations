@@ -49,6 +49,164 @@
       ],
       "tags": [],
       "uuid": "853fda26-e76f-41fa-acae-5eb8d1a3c5f6"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Say Brother",
+              "italic": true
+            },
+            {
+              "text": " (1968-1997) premiered three months after the assassination of Martin Luther King, Jr. and gave voice to Black perspectives during a period of racial protest and rapid social change. In 1998, "
+            },
+            {
+              "text": "Say Brother",
+              "italic": true
+            },
+            {
+              "text": " became "
+            },
+            {
+              "type": "link",
+              "url": "https://www.wgbh.org/basic-black",
+              "children": [
+                {
+                  "text": "Basic Black",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "text": " (1998-2024), a title that producer Cynthia Johnson felt was more inclusive of women."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the outset, "
+            },
+            {
+              "text": "Say Brother",
+              "italic": true
+            },
+            {
+              "text": " served as a forum for activists to critique the racial status quo and for Black writers, musicians, and artists to showcase Black culture. "
+            },
+            {
+              "text": "Say Brother",
+              "italic": true
+            },
+            {
+              "text": " tackled local and international issues of vital interest to Black Bostonians, including the "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-587780d5535",
+              "children": [
+                {
+                  "text": "Black Power Movement"
+                }
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-6h4cn6z40j",
+              "children": [
+                {
+                  "text": "liberation struggles in Africa"
+                }
+              ]
+            },
+            {
+              "text": ", the "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-9nc5sc3d",
+              "children": [
+                {
+                  "text": "Equal Rights Amendment"
+                }
+              ]
+            },
+            {
+              "text": ", the rising "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-708wbmr9",
+              "children": [
+                {
+                  "text": "cost of housing"
+                }
+              ]
+            },
+            {
+              "text": " in the Boston area, and the legacy of the "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-171vjgmx",
+              "children": [
+                {
+                  "text": "Vietnam War"
+                }
+              ]
+            },
+            {
+              "text": ". Episodes also addressed topics in world history and culture, such as the "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-5cd6cb793f8",
+              "children": [
+                {
+                  "text": "ethnic history of Puerto Rico"
+                }
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-0ed8683064b",
+              "children": [
+                {
+                  "text": "racial stereotyping in the 19th century"
+                }
+              ]
+            },
+            {
+              "text": ", and "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-f6ae4901d78",
+              "children": [
+                {
+                  "text": "Africa’s contribution"
+                }
+              ]
+            },
+            {
+              "text": " to ancient Greek, Roman, Chinese, and Middle Eastern civilizations."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "29ff8bd8-1abf-4394-9ae1-d840c293d684"
     }
   ],
   "set": "Default",
