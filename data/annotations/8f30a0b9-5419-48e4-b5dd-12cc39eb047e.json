@@ -440,6 +440,29 @@
       ],
       "tags": [],
       "uuid": "2c788a6d-f10b-4bdb-b7cf-4a37f4cf0fb9"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This clip is taken from the episode "
+            },
+            {
+              "text": "The New Black Politics ",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-49t1j3x1"
+            },
+            {
+              "text": "that aired on October 30th, 2008. In this season premiere television and radio commentator Callie Crossley hosts a LIVE roundtable discussion about what was called the most important presidential race in US history. Guests including Massachusetts State Representative Linda Dorcena Forry, former ABC News anchor and senior correspondent Carole Simpson, Peniel Joseph, associate professor of Africana Studies at Brandeis University, and Howard Manly, executive editor of the Bay State Banner, weigh in on the campaigns of Senators Barack Obama and John McCain and make a pre-election analysis on why voters might gravitate toward either candidate when they go to the polls on Tuesday, Nov. 4. Who speaks to the hearts and pockets of African Americans about a shrinking economy and the impact it has had on struggling families, employment, and the sectors of banking, housing, and education? Our guests explore the greatest issues of concern to the Black community and which problems will be the most important for the next administration to tackle. Also, does Obama's successful primary bid for the presidency symbolize that America is on the cusp of a new era of Black political leadership, one that is not driven by a race-based agenda but is anchored in American solidarity? \n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c5aaa76c-fc46-4498-906c-8191a0fe5821"
     }
   ],
   "set": "Default",
