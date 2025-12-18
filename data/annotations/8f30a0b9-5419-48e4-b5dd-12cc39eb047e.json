@@ -207,6 +207,29 @@
       ],
       "tags": [],
       "uuid": "29ff8bd8-1abf-4394-9ae1-d840c293d684"
+    },
+    {
+      "start_time": 23,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This performance appears in the episode "
+            },
+            {
+              "text": "The Blue Notes ",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-qv3bz61k4c"
+            },
+            {
+              "text": "in which host Barbara Barrow interviews two members of the soul/R&B group The Blue Notes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a8dba113-b76d-408e-adca-0958d6d0f35a"
     }
   ],
   "set": "Default",
