@@ -417,6 +417,29 @@
       ],
       "tags": [],
       "uuid": "c08410a9-d936-4924-8ee3-8d8e10ec374d"
+    },
+    {
+      "start_time": 47,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This clip taken from the episode "
+            },
+            {
+              "text": "Grand Families",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-65v6ztbw"
+            },
+            {
+              "text": " that aired in 1997, focused on a groundbreaking new housing facility that opened in Dorchester: Grandfamilies House was the nation's first housing complex to address the housing needs of grandparents raising their grandchildren. Basic Black followed the creation and development of Grand Families House and surveys the trend of grandparents raising their children's children."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2c788a6d-f10b-4bdb-b7cf-4a37f4cf0fb9"
     }
   ],
   "set": "Default",
