@@ -250,6 +250,150 @@
       ],
       "tags": [],
       "uuid": "6ebfcec3-f815-4283-bcba-d96c16a94168"
+    },
+    {
+      "start_time": 36,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Basic Black",
+              "italic": true
+            },
+            {
+              "text": " continued the work that "
+            },
+            {
+              "text": "Say Brother",
+              "italic": true
+            },
+            {
+              "text": " began, covering issues affecting people of color in Greater Boston and beyond. Episodes tackled social injustices, such as "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-83kwhw47",
+              "children": [
+                {
+                  "text": "racial profiling"
+                }
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-40xpqhsc",
+              "children": [
+                {
+                  "text": "discriminatory lending"
+                }
+              ]
+            },
+            {
+              "text": ", and "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-71nggqf3",
+              "children": [
+                {
+                  "text": "medical racism"
+                }
+              ]
+            },
+            {
+              "text": ". Other episodes celebrated the positive impact of "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-61djk9v6",
+              "children": [
+                {
+                  "text": "local community organizations"
+                }
+              ]
+            },
+            {
+              "text": ", and in a "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-558d10hh",
+              "children": [
+                {
+                  "text": "roundtable discussion"
+                }
+              ]
+            },
+            {
+              "text": " following the 2008 presidential election, panelists voiced cautious optimism about the significance of Barack Obama’s election for the future of Black America. Like "
+            },
+            {
+              "text": "Say Brother",
+              "italic": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Basic Black",
+              "italic": true
+            },
+            {
+              "text": " explored the past’s relevance for the present, with episodes reflecting on the role of "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-01pg65td",
+              "children": [
+                {
+                  "text": "Black Bostonian merchants"
+                }
+              ]
+            },
+            {
+              "text": " in the 19th century abolition movement, the history of the relationship between "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-676t239d",
+              "children": [
+                {
+                  "text": "African Americans and Irish Americans"
+                }
+              ]
+            },
+            {
+              "text": " in Boston, and the experiences of African American soldiers during the "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-15-79h46j95",
+              "children": [
+                {
+                  "text": "Korean War"
+                }
+              ]
+            },
+            {
+              "text": ". "
+            },
+            {
+              "text": "Basic Black",
+              "italic": true
+            },
+            {
+              "text": " also celebrated Black culture through musical performances, poetry readings, and discussions of theater and film."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6080a912-3445-4ff6-a5b8-7b78bb5f9bfb"
     }
   ],
   "set": "Default",
