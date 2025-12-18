@@ -230,6 +230,26 @@
       ],
       "tags": [],
       "uuid": "a8dba113-b76d-408e-adca-0958d6d0f35a"
+    },
+    {
+      "start_time": 27,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a young Al Jerreau performing in a segment from the episode "
+            },
+            {
+              "text": "On Mother's Island.",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-hd7np1wr3m"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6ebfcec3-f815-4283-bcba-d96c16a94168"
     }
   ],
   "set": "Default",
