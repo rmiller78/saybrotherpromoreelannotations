@@ -486,6 +486,29 @@
       ],
       "tags": [],
       "uuid": "1532b4d0-3e2e-4e2c-9224-953a3d6acad5"
+    },
+    {
+      "start_time": 66,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This segment comes from the episode "
+            },
+            {
+              "text": "Sisters.",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-36h1b5z9"
+            },
+            {
+              "text": " The program explores the unique relationships women hold as sisters. We'll talk with women about their relationships to and as sisters. Much has been written about the importance of sibling relationships: as our first relationships with peers, they are where we learn to be friends, to share, to negotiate. Basic Black explores sibling relationships in black families by sharing the joys and struggles of two sets of sisters from different eras. Nicole and Shelley Stark, both in their 30s, talk about the intensity of their relationship and how their closeness has ebbed and flowed through the years. Nicole, who lives in Chestnut Hill and is younger than Shelley by five years, talks to Basic Black about Shelley's big-sister role and how she continually struggles to make her own way in the world. The O'Banyoun sisters--Eleanor Collins, Margaret Jackson, and Muriel Walker, all in their 80s--share the perspective of eight decades of sisterhood. They grew up in a time, they say, when families in general were closer than they are today. The three sisters have always lived within a few miles of each other in Roxbury and Dorchester, and see each other regularly. They talk to Basic Black about sibling rivalry and how the deaths of their other sisters have impacted family dynamics."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "63934bdb-097d-4eda-b390-bc81709351ac"
     }
   ],
   "set": "Default",
