@@ -463,6 +463,29 @@
       ],
       "tags": [],
       "uuid": "c5aaa76c-fc46-4498-906c-8191a0fe5821"
+    },
+    {
+      "start_time": 57,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The clip is taken from the episode "
+            },
+            {
+              "text": "19th Century Black Merchant",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-01pg65td"
+            },
+            {
+              "text": " that informs on the local merchants who played a significant role in the abolition movement. With archival photographs and artwork, interviews with historians, and discussions with the descendants of prominent black Bostonians, BASIC BLACK shows viewers a world rarely seen in history books. Judge Julian Houston tells BASIC BLACK how the African American community in Boston in the 1800s was influential in politics, in the abolitionist movement, and in the fight to desegregate Massachusetts schools. Mario Valdes, a researcher, brings Steven Ellis to the Museum of Fine Arts to show him a portrait of his great-great grandmother, Elizabeth. Ellis is a descendent of Samuel Copeland, a wealthy black merchant who ran a successful used clothing store near Haymarket. Not only did Copeland marry a white woman--an Irish immigrant--his family had several white English and Irish servants. BASIC BLACK also interviews Franklin A. Dorman, author of Twenty Families of Color in Massachusetts, and Lena Reddick, descendent of one of those families. Reddick's ancestor, John T. Hilton, was the most prominent and influential black abolitionist of his era and was close friends with abolitionist William Lloyd Garrison. Reddick talks about her pride in learning of her family's prominent place in Boston history and in sharing that history with her daughter."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1532b4d0-3e2e-4e2c-9224-953a3d6acad5"
     }
   ],
   "set": "Default",
